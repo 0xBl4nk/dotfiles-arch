@@ -11,8 +11,3 @@ sudo/doas ./requirements.sh
 
 --- OR ---
 ./full-install.sh
-
-
-Nvim Config
---------------------------------------
-git clone https://github.com/0xbl4nk/nvim
