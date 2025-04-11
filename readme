@@ -1,8 +1,16 @@
 Gruvbox base theme
 --------------------------------------
-
+1. Install requirements
 sudo/doas ./requirements.sh
-sudo/doas ./dotfiles.sh
+
+2. Install nvim && ghostty configs
+./external.sh
+
+3. Install dotfiles
+./dotfiles.sh
+
+--- OR ---
+./full-install.sh
 
 
 Nvim Config
