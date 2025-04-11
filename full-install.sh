@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
 sudo ./requirements.sh
-sudo ./external.sh
+./external.sh
 ./dotfiles.sh
