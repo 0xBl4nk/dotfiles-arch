@@ -10,6 +10,7 @@ pacman -S ttf-nerd-fonts-symbols
 pacman -S noto-fonts-emoji
 pacman -S noto-fonts
 pacman -S noto-fonts-cjk
+pacman -S ttf-jetbrains-mono
 
 # Other things
 pacman -S nodejs
@@ -20,3 +21,5 @@ pacman -S nautilus
 pacman -S btop
 pacman -S pavucontrol
 pacman -S git
+pacman -R kitty
+pacman -S ghostty
